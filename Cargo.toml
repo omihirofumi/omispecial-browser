@@ -1,4 +1,5 @@
 [workspace]
-members = [
-  "omispecial_core"
+members = [ "net/std",
+  "omispecial_core",
+    "net/std"
 ]

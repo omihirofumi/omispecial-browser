@@ -3,5 +3,12 @@
 version = 3
 
 [[package]]
+name = "net_std"
+version = "0.1.0"
+dependencies = [
+ "omispecial_core",
+]
+
+[[package]]
 name = "omispecial_core"
 version = "0.1.0"
